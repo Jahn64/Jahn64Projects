@@ -2,9 +2,10 @@
   
 <h2>👨‍💻 Service Desk Projects:</h2>
 
-  - [Praciting Password Reset](https://github.com/Jahn64/Jahn64Projects)
+  - [Active Directory Password Reset](https://github.com/Jahn64/Jahn64Projects)
 
 <b><h3> Description </h3> </b>
+In this lab I will demonstrate the steps to reset a users password with Active Directory.
 
 <b> Step 1 Open Server Manager. </b>
 
@@ -23,8 +24,10 @@
 ![image](https://github.com/Jahn64/Jahn64Projects/blob/main/Picture4.jpg?raw=true)
 
 <b>Step 5 Right-click the user and select "Reset Password"</b>
+
 ![image](https://github.com/Jahn64/Jahn64Projects/blob/main/photo7.jpg)
 
 <b>Step 6 The Reset Password box will open. Here a temporary username can be provided to the user and the option to have them change their password upon next logon can be selected.</b>
+
 ![image](https://github.com/Jahn64/Jahn64Projects/blob/main/photo8.jpg)
 
