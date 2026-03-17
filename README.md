@@ -25,8 +25,9 @@
 <b> Step 5 Double clicking the users name opens the properties box. </b>
 ![image](https://github.com/Jahn64/Jahn64Projects/blob/main/Picture5.jpg?raw=true)
 
-<b> Step 6 Under theAccount section we have options: Selecting "User must change password at next logon" is available. Once apply is clicked this action will take place for the user on next login they will be prompted to create a new password. </b>
-![image](https://github.com/Jahn64/Jahn64Projects/blob/main/Picture6.jpg?raw=true)
+
+<b>Step 6 Right-click the user and select "Reset Password"</b>
+![image](https://github.com/Jahn64/Jahn64Projects/blob/main/photo7.jpg)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
