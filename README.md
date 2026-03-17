@@ -22,11 +22,10 @@
 
 ![image](https://github.com/Jahn64/Jahn64Projects/blob/main/Picture4.jpg?raw=true)
 
-<b> Step 5 Double clicking the users name opens the properties box. </b>
-![image](https://github.com/Jahn64/Jahn64Projects/blob/main/Picture5.jpg?raw=true)
+<b>Step 5 Right-click the user and select "Reset Password"</b>
+![image](https://github.com/Jahn64/Jahn64Projects/blob/main/photo7.jpg)
 
-
-<b>Step 6 Right-click the user and select "Reset Password"</b>
+<b>Step 6 The Reset Password box will open. Here a temporary username can be provided to the user and the option to have them change their password upon next logon can be selected.</b>
 ![image](https://github.com/Jahn64/Jahn64Projects/blob/main/photo7.jpg)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
