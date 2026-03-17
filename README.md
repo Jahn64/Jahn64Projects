@@ -11,9 +11,9 @@
 
 ![image](https://github.com/Jahn64/Jahn64Projects/blob/main/Picture2.jpg?raw=true)
 
-![image] (https://github.com/Jahn64/Jahn64Projects/blob/main/Picture3.jpg?raw=true)
+![image](https://github.com/Jahn64/Jahn64Projects/blob/main/Picture3.jpg?raw=true)
 
-![image] ()
+![image](https://github.com/Jahn64/Jahn64Projects/blob/main/Picture4.jpg?raw=true)
 
 ![image] ()
 
