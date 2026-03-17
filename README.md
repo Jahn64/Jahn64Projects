@@ -2,7 +2,7 @@
   
 <h2>👨‍💻 Service Desk Projects:</h2>
 
-  - [Praciting Password Reset](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting Password Reset](https://github.com/Jahn64/Jahn64Projects)
 
 <b><h3> Description </h3> </b>
 
