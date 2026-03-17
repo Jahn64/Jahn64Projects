@@ -15,7 +15,7 @@ In this lab I will demonstrate the steps to reset a users password with Active D
 
 ![image](https://github.com/Jahn64/Jahn64Projects/blob/main/Picture2.jpg?raw=true)
 
-<b> Step 3 Right click domain the user belongs to and select the "Find" option. </b>
+<b> Step 3 Right-click the domain the user belongs to and select the "Find" option. </b>
 
 ![image](https://github.com/Jahn64/Jahn64Projects/blob/main/Picture3.jpg?raw=true)
 
